@@ -360,6 +360,9 @@
 
     <!-- Toggle navigation bar -->
     <string name="navigation_bar_enabled_title">Enable navigation bar</string>
+        <!--CandyGesture-->    
+        <string name="use_bottom_gesture_title">Use swipe up gestures for navigation</string>
+    <string name="use_bottom_gesture_summary">Works only with navigation bar disable</string>
 
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Pixel navbar animation</string>
