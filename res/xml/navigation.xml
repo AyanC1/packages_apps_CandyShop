@@ -28,11 +28,7 @@
             android:key="navbar"
             android:title="@string/navbar_title"
             android:summary="@string/navbar_summary"
-            <org.candy.candyshop.preference.SystemSettingSwitchPreference
-        android:key="use_bottom_gesture_navigation"
-        android:title="@string/use_bottom_gesture_title"
-        android:summary="@string/use_bottom_gesture_summary"
-        android:defaultValue="false" />
+            
 
  android:fragment="org.candy.candyshop.fragments.NavbarSettings" />
 
